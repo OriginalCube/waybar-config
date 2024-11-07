@@ -1,0 +1,9 @@
+{
+    "layers": ["top"],
+    "position": "top",
+    "modules-left": ["i3"],
+    "modules-center": ["date"],
+    "modules-right": ["cpu", "memory", "battery"],
+    "font": "Fira Code Regular 10"
+}
+

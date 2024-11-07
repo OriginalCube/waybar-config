@@ -1,0 +1,19 @@
+#waybar {
+    background: #222222;
+    color: #ffffff;
+    height: 30px;
+    font-size: 12px;
+}
+
+#waybar i3 {
+    padding: 0 10px;
+}
+
+#waybar date {
+    padding: 0 10px;
+}
+
+#waybar cpu, #waybar memory, #waybar battery {
+    padding: 0 10px;
+}
+
